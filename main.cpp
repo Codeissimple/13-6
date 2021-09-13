@@ -6,14 +6,14 @@ using namespace std;
 class Demo
 {
   public:
-    Demo(); //Constructor
+    Demo(); //Constructor 
 };
 
 Demo::Demo()
 {
   cout << "Welcome to the constructor!\n";
 }
-
+ 
 
 int main() {
   
